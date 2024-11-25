@@ -19,7 +19,7 @@ This project fetches U.S. Consumer Price Index (CPI) data from FRED (Federal Res
 ### Setup Steps
 
 1. Clone the repository:
-   git clone https://github.com/your-username/phbs-qps-2024.git
+   git clone https://github.com/Jinz-Lin/phbs-qps-2024.git
 
 2. Navigate to the project directory:
    cd phbs-qps-2024
