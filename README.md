@@ -19,24 +19,31 @@ This project fetches U.S. Consumer Price Index (CPI) data from FRED (Federal Res
 ### Setup Steps
 
 1. Clone the repository:
+   
    git clone https://github.com/Jinz-Lin/phbs-qps-2024.git
 
 2. Navigate to the project directory:
+   
    cd phbs-qps-2024
 
 3. Create and activate a virtual environment:
+   
    python -m venv venv
+   
    source venv/bin/activate  # On Windows, use venv\Scripts\activate
 
 4. Install the required dependencies:
+   
    pip install pandas pandas_datareader matplotlib
 
 ### Running the Code
 
 1. Navigate to the scripts/ directory:
+   
    cd scripts/
 
 2. Run the script to fetch CPI data and calculate inflation:
+   
    python fetch_cpi_data.py
 
 ## Folder Structure
