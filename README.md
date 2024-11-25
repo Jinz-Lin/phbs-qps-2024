@@ -42,12 +42,19 @@ This project fetches U.S. Consumer Price Index (CPI) data from FRED (Federal Res
 ## Folder Structure
 
 phbs-qps-2024/
+
 ├── data/          # Data folder (currently empty)
+
 ├── notebooks/     # Jupyter notebooks (optional)
+
 ├── scripts/       # Python scripts folder
+
 │   └── fetch_cpi_data.py  # Script to fetch CPI data and calculate inflation
+
 ├── src/           # Source code folder (optional)
+
 ├── requirements.txt  # Project dependencies file
+
 └── README.md      # Project README file
 
 ## License
