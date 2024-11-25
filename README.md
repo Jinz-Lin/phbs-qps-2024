@@ -3,7 +3,7 @@
 This repository contains code to fetch U.S. Consumer Price Index (CPI) data and calculate the inflation rate for the last four quarters.
 
 ## Repository Link
-[GitHub Repository Link](https://github.com/your-username/phbs-qps-2024)
+[GitHub Repository Link](https://github.com/Jinz-Lin/phbs-qps-2024)
 
 ## Project Description
 
